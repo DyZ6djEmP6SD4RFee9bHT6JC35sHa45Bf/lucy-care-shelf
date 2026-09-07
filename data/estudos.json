@@ -1,25 +1,45 @@
 {
   "updated": "2026-09-07",
-  "note": "Para o veterinário. Não é receita. Sem dados pessoais.",
+  "note": "Para o veterinário. Não é receita. Sem dados pessoais nem doses.",
   "research": [
     {
       "id": "r-pmc-ca-burmese",
-      "when": "2024",
+      "when": "2015/PMC 2024",
       "topic": "Astenia cutânea",
-      "status": "revisão clínica",
-      "title": "Cutaneous asthenia — sem tratamento específico",
-      "summary": "Não há terapêutica causal. QoL depende de evitar trauma.",
-      "askVet": "Além do zero-trauma, há algum adjuvante que faça sentido, ou só manejo?",
+      "status": "revisão JFMS",
+      "title": "Astenia cutânea (EDS-like) em gatos Burmese",
+      "summary": "Pele frágil, índice de extensibilidade, escaras. Sem tratamento causal. Maneio: evitar trauma e contenção brusca.",
+      "askVet": "Além do zero-trauma, há algum adjuvante que faça sentido neste caso?",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10816250/"
+    },
+    {
+      "id": "r-jvim-eds-genetics",
+      "when": "2023",
+      "topic": "Genética EDS",
+      "status": "estudo genético JVIM",
+      "title": "Variantes de EDS em felinos (precisão genética)",
+      "summary": "EDS é heterogéneo. Há variantes descritas em raças e SRD. Não muda o maneio imediato; pode orientar o que perguntar ao vet.",
+      "askVet": "Vale um teste genético nesta Lucy, ou o diagnóstico clínico chega?",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/jvim.16805"
+    },
+    {
+      "id": "r-umn-handbook",
+      "when": "2025",
+      "topic": "Astenia cutânea",
+      "status": "manual aberto",
+      "title": "Cutaneous asthenia — handbook dermatologia",
+      "summary": "Formas dominante e recessiva. Diferenciar de fragilidade adquirida (cortisol, fígado, diabetes) que surge em idade média/velha.",
+      "askVet": "O quadro da Lucy encaixa na forma congénita que já têm no arquivo?",
+      "url": "https://open.lib.umn.edu/animaldermatology3/chapter/1n-cutaneous-asthenia-canine-and-feline/"
     },
     {
       "id": "r-jfms-neuropathic-2024",
       "when": "2024-05",
       "topic": "Dor neuropática",
       "status": "revisão JFMS",
-      "title": "Dor neuropática felina: multimodal",
-      "summary": "Gabapentinóides como adjuvante. Não há preparado licenciado só para isto.",
-      "askVet": "Gabapentina faz sentido neste caso? Se sim, que apresentação e posologia?",
+      "title": "Dor neuropática no gato: mecanismos e maneio multimodal",
+      "summary": "Algoritmo multimodal. Gabapentinóides como adjuvante. Sem preparado licenciado só para isto.",
+      "askVet": "Gabapentina ou outro adjuvante faz sentido agora? Que apresentação?",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11156241/"
     },
     {
@@ -27,10 +47,40 @@
       "when": "2024-04",
       "topic": "NSAID",
       "status": "guideline ISFM/AAFP",
-      "title": "NSAID a longo prazo no gato — com rastreio",
-      "summary": "Pode ajudar dor inflamatória crónica se o vet rastrear rim.",
-      "askVet": "NSAID entra agora, mais tarde, ou não?",
+      "title": "NSAID a longo prazo no gato",
+      "summary": "Pode ajudar dor inflamatória crónica se o vet rastrear rim e pesar riscos. Paracetamol é contraindicado no gato.",
+      "askVet": "NSAID entra agora, mais tarde, ou não — com a pele frágil?",
       "url": "https://journals.sagepub.com/doi/10.1177/1098612X241241951"
+    },
+    {
+      "id": "r-pmc-nav17-2025",
+      "when": "2025",
+      "topic": "Dor neuropática",
+      "status": "caso único / experimental",
+      "title": "Inibidor NaV1.7 como adjuvante (um gato)",
+      "summary": "Um caso. Não é fármaco de prateleira. Serve para mostrar a direcção da investigação, não para pedir na farmácia.",
+      "askVet": "Há algum ensaio ou composto em estudo que faça sentido seguir?",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12949527/"
+    },
+    {
+      "id": "r-ctgov-cat-pain",
+      "when": "2026-09",
+      "topic": "Ensaios",
+      "status": "registo ClinicalTrials.gov",
+      "title": "Procurar ensaios: dor / osteoartrite felina",
+      "summary": "Não há um ensaio grande só para astenia cutânea felina. Esta pesquisa lista estudos de dor em gatos quando existirem.",
+      "askVet": "Algum destes recrutamentos encaixa na Lucy, ou é só para acompanhar?",
+      "url": "https://clinicaltrials.gov/search?term=feline%20cat%20pain%20osteoarthritis"
+    },
+    {
+      "id": "r-pubmed-cat-eds",
+      "when": "2026-09",
+      "topic": "Pesquisa",
+      "status": "índice PubMed",
+      "title": "PubMed: cutaneous asthenia OR feline Ehlers-Danlos",
+      "summary": "Lista viva de papers. Abrir e ordenar por data.",
+      "askVet": "Algum artigo recente muda o plano de maneio?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=feline+cutaneous+asthenia+OR+feline+Ehlers-Danlos&sort=date"
     }
   ]
 }
