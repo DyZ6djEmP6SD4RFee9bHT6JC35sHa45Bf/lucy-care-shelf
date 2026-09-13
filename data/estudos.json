@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07",
-  "note": "Para o veterinário. Não é receita. Sem dados pessoais nem doses.",
+  "updated": "2026-09-13",
+  "note": "Para o vet. Não é receita. Sem dados pessoais nem doses.",
   "research": [
     {
       "id": "r-pmc-ca-burmese",
@@ -8,8 +8,8 @@
       "topic": "Astenia cutânea",
       "status": "revisão JFMS",
       "title": "Astenia cutânea (EDS-like) em gatos Burmese",
-      "summary": "Pele frágil, índice de extensibilidade, escaras. Sem tratamento causal. Maneio: evitar trauma e contenção brusca.",
-      "askVet": "Além do zero-trauma, há algum adjuvante que faça sentido neste caso?",
+      "summary": "Pele frágil, índice de extensibilidade elevado, escaras e alopecia atrófica. Sem tratamento causal. Maneio focado em zero-trauma e qualidade de vida.",
+      "askVet": "Além do zero-trauma, há algum adjuvante ou monitorização que faça sentido neste caso?",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10816250/"
     },
     {
@@ -17,20 +17,10 @@
       "when": "2023",
       "topic": "Genética EDS",
       "status": "estudo genético JVIM",
-      "title": "Variantes de EDS em felinos (precisão genética)",
-      "summary": "EDS é heterogéneo. Há variantes descritas em raças e SRD. Não muda o maneio imediato; pode orientar o que perguntar ao vet.",
-      "askVet": "Vale um teste genético nesta Lucy, ou o diagnóstico clínico chega?",
+      "title": "Variante COL5A1 e precisão genética em EDS felino",
+      "summary": "EDS é geneticamente heterogéneo. Variantes identificadas (ex. COL5A1). Não altera o maneio imediato, mas pode esclarecer prognóstico e aconselhamento.",
+      "askVet": "Vale a pena um teste genético, ou o diagnóstico clínico e o historial bastam?",
       "url": "https://onlinelibrary.wiley.com/doi/10.1111/jvim.16805"
-    },
-    {
-      "id": "r-umn-handbook",
-      "when": "2025",
-      "topic": "Astenia cutânea",
-      "status": "manual aberto",
-      "title": "Cutaneous asthenia — handbook dermatologia",
-      "summary": "Formas dominante e recessiva. Diferenciar de fragilidade adquirida (cortisol, fígado, diabetes) que surge em idade média/velha.",
-      "askVet": "O quadro da Lucy encaixa na forma congénita que já têm no arquivo?",
-      "url": "https://open.lib.umn.edu/animaldermatology3/chapter/1n-cutaneous-asthenia-canine-and-feline/"
     },
     {
       "id": "r-jfms-neuropathic-2024",
@@ -38,49 +28,29 @@
       "topic": "Dor neuropática",
       "status": "revisão JFMS",
       "title": "Dor neuropática no gato: mecanismos e maneio multimodal",
-      "summary": "Algoritmo multimodal. Gabapentinóides como adjuvante. Sem preparado licenciado só para isto.",
-      "askVet": "Gabapentina ou outro adjuvante faz sentido agora? Que apresentação?",
+      "summary": "Revisão com algoritmo multimodal. Inclui gabapentinóides, anti-inflamatórios e neuromodulação. Ênfase na interacção emoção-dor e QoL.",
+      "askVet": "Gabapentinóide ou outro adjuvante faz sentido agora? Que apresentação e monitorização?",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11156241/"
     },
     {
       "id": "r-isfm-nsaid-2024",
       "when": "2024-04",
-      "topic": "NSAID",
+      "topic": "Analgesia multimodal / NSAID",
       "status": "guideline ISFM/AAFP",
-      "title": "NSAID a longo prazo no gato",
-      "summary": "Pode ajudar dor inflamatória crónica se o vet rastrear rim e pesar riscos. Paracetamol é contraindicado no gato.",
-      "askVet": "NSAID entra agora, mais tarde, ou não — com a pele frágil?",
+      "title": "2024 ISFM/AAFP: NSAID a longo prazo em gatos",
+      "summary": "Guidelines actualizadas. NSAID úteis em dor crónica inflamatória dentro de abordagem multimodal, com rastreio renal e monitorização. Paracetamol contraindicado.",
+      "askVet": "NSAID entra agora, mais tarde, ou não — considerando a fragilidade cutânea e possíveis comorbilidades?",
       "url": "https://journals.sagepub.com/doi/10.1177/1098612X241241951"
     },
     {
-      "id": "r-pmc-nav17-2025",
-      "when": "2025",
-      "topic": "Dor neuropática",
-      "status": "caso único / experimental",
-      "title": "Inibidor NaV1.7 como adjuvante (um gato)",
-      "summary": "Um caso. Não é fármaco de prateleira. Serve para mostrar a direcção da investigação, não para pedir na farmácia.",
-      "askVet": "Há algum ensaio ou composto em estudo que faça sentido seguir?",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12949527/"
-    },
-    {
-      "id": "r-ctgov-cat-pain",
-      "when": "2026-09",
-      "topic": "Ensaios",
-      "status": "registo ClinicalTrials.gov",
-      "title": "Procurar ensaios: dor / osteoartrite felina",
-      "summary": "Não há um ensaio grande só para astenia cutânea felina. Esta pesquisa lista estudos de dor em gatos quando existirem.",
-      "askVet": "Algum destes recrutamentos encaixa na Lucy, ou é só para acompanhar?",
-      "url": "https://clinicaltrials.gov/search?term=feline%20cat%20pain%20osteoarthritis"
-    },
-    {
-      "id": "r-pubmed-cat-eds",
-      "when": "2026-09",
-      "topic": "Pesquisa",
-      "status": "índice PubMed",
-      "title": "PubMed: cutaneous asthenia OR feline Ehlers-Danlos",
-      "summary": "Lista viva de papers. Abrir e ordenar por data.",
-      "askVet": "Algum artigo recente muda o plano de maneio?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=feline+cutaneous+asthenia+OR+feline+Ehlers-Danlos&sort=date"
+      "id": "r-2024-diet-oa-omega3",
+      "when": "2024",
+      "topic": "Suplementos / QoL",
+      "status": "ensaio clínico",
+      "title": "Dieta enriquecida EPA/DHA + curcuma + colagénio hidrolisado em OA felina",
+      "summary": "Ensaio controlado: melhorias significativas em força de apoio, mobilidade e scores de dor/função. Boa tolerância. Evidência mais sólida para ómega-3 marinhos do que para glucosamina/condroitina isolada.",
+      "askVet": "Uma dieta terapêutica enriquecida em ómega-3 faz sentido como suporte de QoL e dor?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39595350/"
     }
   ]
 }
